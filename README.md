@@ -1,2 +1,2 @@
 # dark-white-theme
-basic example of d/w theme
+basic example of d/w theme using javascript
